@@ -15,8 +15,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
   - Angular
   - Node.js
 - Linguagens:
-  - C
   - Python (em progresso)
+  - java(em progresso) 
 
 ---
 
