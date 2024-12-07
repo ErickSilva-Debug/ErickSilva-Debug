@@ -14,7 +14,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
   - React  
   - Angular
 - Linguagens:
-  - Python(em progresso)
+  - JavaScript/TypeScript(em progresso) 
   - C#(em progresso)
 - Ferramenta:
    -PowerBI 
