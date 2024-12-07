@@ -46,8 +46,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
   <img align="center" alt="Erick-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Erick-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erick-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Erick-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Erick-TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
   <img align="center" alt="Erick-MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
+ <img align="center" alt="Erick-Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
 </div>
 
 ---
