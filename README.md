@@ -7,26 +7,24 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
  🌱 O que estou estudando atualmente:
 - Lógica de Programação 
 - Desenvolvimento Web:
-  - HTML
-  - CSS
-  - JavaScript
+  - Java
+  - MySql
+  - MongoDB
 - Frameworks & Bibliotecas:
-  - React  
-  - Angular
+  - Spring boot 
 - Linguagens:
-  - JavaScript/TypeScript(em progresso) 
-  - C#(em progresso)
+  - Java(em progresso)
+  - Python(em progresso)
 - Ferramenta:
    -PowerBI 
 
 ---
 
  📚 Próximos tópicos de estudo:
-- MongoDB e C#
-- Estrutura de Dados 
-- Fundamentos Cloud Computing
-- Python
-- React e Angular
+- Sobre Segurança 
+- APis 
+- Arquitetura de Software
+- DevOps
 
 ---
 
@@ -41,14 +39,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 🔧 Habilidades e Ferramentas:
 
 <div style="display: inline_block">
-  <img align="center" alt="Erick-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Erick-C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Erick-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Erick-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Erick-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Erick-TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Erick-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <img align="center" alt="Erick-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Erick-Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Erick-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <img align="center" alt="Erick-MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
- <img align="center" alt="Erick-Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+ <img align="center" alt="Erick-spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
 </div>
 
 ---
@@ -64,7 +60,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 ⚡ Curiosidade:
 Fora do código, adoro me desafiar com jogos de lógica e acompanhar as novas tendências tecnológicas. Estou sempre buscando melhorar minhas habilidades de resolução de problemas e aprender algo novo.
 
----
 
 
 
